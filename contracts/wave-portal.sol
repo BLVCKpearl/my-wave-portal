@@ -28,6 +28,8 @@ contract WavePortal{
         return wavers[waver];
     }
 
+    function goNow(){}
+
 
 
 
